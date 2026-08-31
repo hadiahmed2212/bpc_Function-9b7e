@@ -1,0 +1,8 @@
+tuplex= (1,2,3,4,5,6,7,8,9,10)
+print (tuplex)
+tuplex=tuplex+(11,)
+print (tuplex)
+print(tuplex[1])
+print(tuplex[-1])
+print(tuplex[6:9])
+print(tuplex.count(2))
