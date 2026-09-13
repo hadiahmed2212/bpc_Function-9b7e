@@ -1,0 +1,5 @@
+print("my daily routine is:")
+print(" in the morning i wake up at 7:40am.")
+print("i leave for school at 8:15am")
+print("i go to the park after school")
+print("i then do my homework before i sleep.")
