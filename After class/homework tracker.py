@@ -25,4 +25,5 @@ while taskn <= ttl_HW:
 
     print(" ALL HOMEWORK COMPLETED!")
     print("NICE!")
+    print("thanks for using this project!")
     
