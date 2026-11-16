@@ -132,7 +132,7 @@ while running:
         bullet_state = "ready"
     elif bullet_state == "fire":
         fire_bullet(bulletx, bullety)
-
+#jhds
         bulletY -= bullety_change
     player(player_x, player_y)
     show_score(textx, texty)
