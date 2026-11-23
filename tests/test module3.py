@@ -17,4 +17,4 @@ while i < len(names):
 print("The highest score is:", highest)
 print("The lowest score is:", lowest)
 average = total / len(student_data)
-print("The average is:", average)
+print("The average is::", average)
