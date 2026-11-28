@@ -13,7 +13,7 @@ wildlife_img = pygame.transform.scale(pygame.image.load(tiger_path).convert_alph
 wildlife_rect = wildlife_img.get_rect(center=(SCREEN_WIDTH // 2, SCREEN_HEIGHT // 2 - 30))
 heading_font = pygame.font.Font(None, 42)
 fact_font = pygame.font.Font(None, 28)
-heading_text = heading_font.render("Wild Animal: Tiger", True, pygame.Color("blue"))
+heading_text = heading_font.render("Wild Animal: Tiger", True, pygame.Color("red"))
 heading_rect = heading_text.get_rect(center=(SCREEN_WIDTH // 2, 45))
 fact_text = fact_font.render("Tigers are powerful!", True, pygame.Color("white"))
 fact_rect = fact_text.get_rect(center=(SCREEN_WIDTH // 2, 420))
